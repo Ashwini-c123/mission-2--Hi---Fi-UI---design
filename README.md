@@ -15,4 +15,4 @@ Fitness Tracker App for Students
 - 3 Hi-Fi Screens
 
 # Figma Link
-https://www.figma.com/design/kphlq89iFI8qOa3zvNrk9C/Mission-2--Hi-Fi--UI?node-id=0-1&t=y1Fw40ANNL5SZouG-1
+https://www.figma.com/design/kphlq89iFI8qOa3zvNrk9C/Mission-2--Hi-Fi--UI?node-id=0-1&t=BXD2z0kowGRmt7TK-1
