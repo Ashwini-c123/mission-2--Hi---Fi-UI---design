@@ -1,2 +1,18 @@
 # mission-2--Hi---Fi-UI---design
-Mission 2 of Vertex Mind Internship – Hi-Fi UI Design for a Fitness Tracker App for Students using Figma.
+# Project Title
+Fitness Tracker App for Students
+
+# Tools Used
+- Figma
+- Auto Layout
+- Components
+- Design Tokens
+
+# Deliverables
+- Color Tokens
+- Typography Tokens
+- Components
+- 3 Hi-Fi Screens
+
+# Figma Link
+https://www.figma.com/design/kphlq89iFI8qOa3zvNrk9C/Mission-2--Hi-Fi--UI?node-id=0-1&t=y1Fw40ANNL5SZouG-1
